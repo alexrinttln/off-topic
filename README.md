@@ -2,5 +2,5 @@ This is just a repository to store useless posts.
 
 See also:
 
-- [alexrintt.io](https://alexrintt.io).
-- [alexrinttln/programming](https://github.com/alexrinttln/programming).
+- Blog [alexrintt.io](https://alexrintt.io).
+- One of the main CMS repositories [alexrinttln/programming](https://github.com/alexrinttln/programming).
